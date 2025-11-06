@@ -1,0 +1,1108 @@
+{
+  "competition_info": {
+    "location": "Geneve",
+    "date": "11.10.2025",
+    "round": "Semi Final",
+    "dance": "Boogie Woogie",
+    "class": "Main Class",
+    "judges": [
+      {
+        "letter": "A",
+        "name": "Raynald Chanton",
+        "country": "France"
+      },
+      {
+        "letter": "B",
+        "name": "Marina Eskolin",
+        "country": "Finland"
+      },
+      {
+        "letter": "C",
+        "name": "Magda Laudi",
+        "country": "Italy"
+      },
+      {
+        "letter": "G",
+        "name": "Johannes Hien",
+        "country": "Germany"
+      },
+      {
+        "letter": "H",
+        "name": "Jan Falk",
+        "country": "Sweden"
+      },
+      {
+        "letter": "I",
+        "name": "Max Bolgov",
+        "country": "Ukraine"
+      }
+    ]
+  },
+  "couples": [
+    {
+      "start_number": "115",
+      "position": "1",
+      "teor": "65",
+      "categories": {
+        "BBW": {
+          "name": "Boogie Woogie Basics - Woman",
+          "aggregated": "5,58",
+          "judge_scores": [
+            "4,5",
+            "4,5",
+            "6,75",
+            "6",
+            "5,25",
+            "6"
+          ]
+        },
+        "BBM": {
+          "name": "Boogie Woogie Basics - Man",
+          "aggregated": "5,43",
+          "judge_scores": [
+            "5,25",
+            "5,25",
+            "6",
+            "5,25",
+            "5,25",
+            "6"
+          ]
+        },
+        "LF": {
+          "name": "Lead and follow, basic dancing, harmony, dance performance",
+          "aggregated": "10,05",
+          "judge_scores": [
+            "9,75",
+            "10,5",
+            "9",
+            "10,5",
+            "9",
+            "10,5"
+          ]
+        },
+        "DF": {
+          "name": "Dance Figures (how do they present)",
+          "aggregated": "5,92",
+          "judge_scores": [
+            "5,5",
+            "6",
+            "5",
+            "7",
+            "6",
+            "6"
+          ]
+        },
+        "MI": {
+          "name": "Music Interpretation (what do they present)",
+          "aggregated": "14,35",
+          "judge_scores": [
+            "13,75",
+            "13,75",
+            "13,75",
+            "16,25",
+            "15",
+            "16,25"
+          ]
+        }
+      },
+      "observer": "",
+      "sum": "41,33",
+      "total": "41,33",
+      "competitor_names": "Lena MAGNUSSON & Tobias RAMBERG"
+    },
+    {
+      "start_number": "113",
+      "position": "2",
+      "teor": "65",
+      "categories": {
+        "BBW": {
+          "name": "Boogie Woogie Basics - Woman",
+          "aggregated": "4,88",
+          "judge_scores": [
+            "3,75",
+            "6",
+            "4,5",
+            "4,5",
+            "5,25",
+            "5,25"
+          ]
+        },
+        "BBM": {
+          "name": "Boogie Woogie Basics - Man",
+          "aggregated": "5,16",
+          "judge_scores": [
+            "4,5",
+            "5,25",
+            "5,25",
+            "5,25",
+            "5,25",
+            "5,25"
+          ]
+        },
+        "LF": {
+          "name": "Lead and follow, basic dancing, harmony, dance performance",
+          "aggregated": "9",
+          "judge_scores": [
+            "8,25",
+            "8,25",
+            "9,75",
+            "9",
+            "9",
+            "9,75"
+          ]
+        },
+        "DF": {
+          "name": "Dance Figures (how do they present)",
+          "aggregated": "5,28",
+          "judge_scores": [
+            "5",
+            "4",
+            "7,5",
+            "6",
+            "5,5",
+            "5"
+          ]
+        },
+        "MI": {
+          "name": "Music Interpretation (what do they present)",
+          "aggregated": "13,01",
+          "judge_scores": [
+            "12,5",
+            "11,25",
+            "18,75",
+            "15",
+            "13,75",
+            "11,25"
+          ]
+        }
+      },
+      "observer": "",
+      "sum": "37,33",
+      "total": "37,33",
+      "competitor_names": "Wilma EDLUND & Viktor EDLUND"
+    },
+    {
+      "start_number": "96",
+      "position": "3",
+      "teor": "65",
+      "categories": {
+        "BBW": {
+          "name": "Boogie Woogie Basics - Woman",
+          "aggregated": "4,81",
+          "judge_scores": [
+            "5,25",
+            "3",
+            "5,25",
+            "3,75",
+            "4,5",
+            "5,25"
+          ]
+        },
+        "BBM": {
+          "name": "Boogie Woogie Basics - Man",
+          "aggregated": "4,81",
+          "judge_scores": [
+            "5,25",
+            "3",
+            "5,25",
+            "3,75",
+            "4,5",
+            "5,25"
+          ]
+        },
+        "LF": {
+          "name": "Lead and follow, basic dancing, harmony, dance performance",
+          "aggregated": "8,36",
+          "judge_scores": [
+            "8,25",
+            "6,75",
+            "9,75",
+            "9",
+            "8,25",
+            "8,25"
+          ]
+        },
+        "DF": {
+          "name": "Dance Figures (how do they present)",
+          "aggregated": "5,7",
+          "judge_scores": [
+            "6,5",
+            "5",
+            "5",
+            "6",
+            "6",
+            "5,5"
+          ]
+        },
+        "MI": {
+          "name": "Music Interpretation (what do they present)",
+          "aggregated": "12,5",
+          "judge_scores": [
+            "12,5",
+            "8,75",
+            "11,25",
+            "12,5",
+            "13,75",
+            "16,25"
+          ]
+        }
+      },
+      "observer": "",
+      "sum": "36,19",
+      "total": "36,19",
+      "competitor_names": "Carlotta CORSI & Luca ZILOCCHI"
+    },
+    {
+      "start_number": "83",
+      "position": "4",
+      "teor": "65",
+      "categories": {
+        "BBW": {
+          "name": "Boogie Woogie Basics - Woman",
+          "aggregated": "4,49",
+          "judge_scores": [
+            "3,75",
+            "6",
+            "3,75",
+            "4,5",
+            "6",
+            "4,5"
+          ]
+        },
+        "BBM": {
+          "name": "Boogie Woogie Basics - Man",
+          "aggregated": "4,91",
+          "judge_scores": [
+            "5,25",
+            "5,25",
+            "4,5",
+            "4,5",
+            "6",
+            "4,5"
+          ]
+        },
+        "LF": {
+          "name": "Lead and follow, basic dancing, harmony, dance performance",
+          "aggregated": "8,6",
+          "judge_scores": [
+            "9",
+            "7,5",
+            "9",
+            "8,25",
+            "9,75",
+            "6,75"
+          ]
+        },
+        "DF": {
+          "name": "Dance Figures (how do they present)",
+          "aggregated": "5,31",
+          "judge_scores": [
+            "6",
+            "4,5",
+            "6,5",
+            "5",
+            "5",
+            "5,5"
+          ]
+        },
+        "MI": {
+          "name": "Music Interpretation (what do they present)",
+          "aggregated": "11,8",
+          "judge_scores": [
+            "10",
+            "10",
+            "13,75",
+            "13,75",
+            "16,25",
+            "8,75"
+          ]
+        }
+      },
+      "observer": "",
+      "sum": "35,11",
+      "total": "35,11",
+      "competitor_names": "Ida KERÄNEN & Juho PÄIVINEN"
+    },
+    {
+      "start_number": "114",
+      "position": "5",
+      "teor": "65",
+      "categories": {
+        "BBW": {
+          "name": "Boogie Woogie Basics - Woman",
+          "aggregated": "4,39",
+          "judge_scores": [
+            "3,75",
+            "4,5",
+            "6",
+            "3",
+            "4,5",
+            "4,5"
+          ]
+        },
+        "BBM": {
+          "name": "Boogie Woogie Basics - Man",
+          "aggregated": "4,61",
+          "judge_scores": [
+            "5,25",
+            "4,5",
+            "6",
+            "3",
+            "4,5",
+            "4,5"
+          ]
+        },
+        "LF": {
+          "name": "Lead and follow, basic dancing, harmony, dance performance",
+          "aggregated": "9,04",
+          "judge_scores": [
+            "9,75",
+            "8,25",
+            "9,75",
+            "6,75",
+            "9,75",
+            "7,5"
+          ]
+        },
+        "DF": {
+          "name": "Dance Figures (how do they present)",
+          "aggregated": "5,2",
+          "judge_scores": [
+            "5,5",
+            "5",
+            "5",
+            "5,5",
+            "5,5",
+            "4,5"
+          ]
+        },
+        "MI": {
+          "name": "Music Interpretation (what do they present)",
+          "aggregated": "11,37",
+          "judge_scores": [
+            "11,25",
+            "7,5",
+            "12,5",
+            "11,25",
+            "16,25",
+            "11,25"
+          ]
+        }
+      },
+      "observer": "",
+      "sum": "34,62",
+      "total": "34,62",
+      "competitor_names": "Sofia ÄRLESKOG & Oscar AGREN"
+    },
+    {
+      "start_number": "84",
+      "position": "6",
+      "teor": "65",
+      "categories": {
+        "BBW": {
+          "name": "Boogie Woogie Basics - Woman",
+          "aggregated": "4,5",
+          "judge_scores": [
+            "3,75",
+            "5,25",
+            "3,75",
+            "4,5",
+            "5,25",
+            "4,5"
+          ]
+        },
+        "BBM": {
+          "name": "Boogie Woogie Basics - Man",
+          "aggregated": "4,5",
+          "judge_scores": [
+            "4,5",
+            "5,25",
+            "3,75",
+            "4,5",
+            "4,5",
+            "4,5"
+          ]
+        },
+        "LF": {
+          "name": "Lead and follow, basic dancing, harmony, dance performance",
+          "aggregated": "8,29",
+          "judge_scores": [
+            "8,25",
+            "9",
+            "8,25",
+            "9",
+            "5,25",
+            "7,5"
+          ]
+        },
+        "DF": {
+          "name": "Dance Figures (how do they present)",
+          "aggregated": "5,4",
+          "judge_scores": [
+            "5,5",
+            "4",
+            "6,5",
+            "5,5",
+            "4",
+            "5,5"
+          ]
+        },
+        "MI": {
+          "name": "Music Interpretation (what do they present)",
+          "aggregated": "11,75",
+          "judge_scores": [
+            "11,25",
+            "11,25",
+            "15",
+            "16,25",
+            "11,25",
+            "12,5"
+          ]
+        }
+      },
+      "observer": "",
+      "sum": "34,44",
+      "total": "34,44",
+      "competitor_names": "Nelly RODIAC & Lucas CHARRIER"
+    },
+    {
+      "start_number": "95",
+      "position": "7",
+      "teor": "65",
+      "categories": {
+        "BBW": {
+          "name": "Boogie Woogie Basics - Woman",
+          "aggregated": "3,94",
+          "judge_scores": [
+            "3,75",
+            "3,75",
+            "4,5",
+            "3,75",
+            "3,75",
+            "5,25"
+          ]
+        },
+        "BBM": {
+          "name": "Boogie Woogie Basics - Man",
+          "aggregated": "4,4",
+          "judge_scores": [
+            "4,5",
+            "4,5",
+            "4,5",
+            "3,75",
+            "3,75",
+            "5,25"
+          ]
+        },
+        "LF": {
+          "name": "Lead and follow, basic dancing, harmony, dance performance",
+          "aggregated": "8,25",
+          "judge_scores": [
+            "8,25",
+            "8,25",
+            "9",
+            "8,25",
+            "7,5",
+            "8,25"
+          ]
+        },
+        "DF": {
+          "name": "Dance Figures (how do they present)",
+          "aggregated": "5,65",
+          "judge_scores": [
+            "6",
+            "6",
+            "4,5",
+            "6",
+            "5",
+            "5,5"
+          ]
+        },
+        "MI": {
+          "name": "Music Interpretation (what do they present)",
+          "aggregated": "12,05",
+          "judge_scores": [
+            "10",
+            "10",
+            "7,5",
+            "13,75",
+            "13,75",
+            "13,75"
+          ]
+        }
+      },
+      "observer": "",
+      "sum": "34,29",
+      "total": "34,29",
+      "competitor_names": "Giulia CORNELLI & Simone CORSI"
+    },
+    {
+      "start_number": "99",
+      "position": "8",
+      "teor": "65",
+      "categories": {
+        "BBW": {
+          "name": "Boogie Woogie Basics - Woman",
+          "aggregated": "3,75",
+          "judge_scores": [
+            "3,75",
+            "4,5",
+            "3",
+            "3,75",
+            "5,25",
+            "3"
+          ]
+        },
+        "BBM": {
+          "name": "Boogie Woogie Basics - Man",
+          "aggregated": "4,4",
+          "judge_scores": [
+            "4,5",
+            "4,5",
+            "3",
+            "3,75",
+            "5,25",
+            "4,5"
+          ]
+        },
+        "LF": {
+          "name": "Lead and follow, basic dancing, harmony, dance performance",
+          "aggregated": "7,4",
+          "judge_scores": [
+            "8,25",
+            "6",
+            "7,5",
+            "7,5",
+            "7,5",
+            "6,75"
+          ]
+        },
+        "DF": {
+          "name": "Dance Figures (how do they present)",
+          "aggregated": "5,15",
+          "judge_scores": [
+            "5",
+            "3,5",
+            "5,5",
+            "5,5",
+            "5,5",
+            "4"
+          ]
+        },
+        "MI": {
+          "name": "Music Interpretation (what do they present)",
+          "aggregated": "13,28",
+          "judge_scores": [
+            "12,5",
+            "6,25",
+            "13,75",
+            "13,75",
+            "13,75",
+            "10"
+          ]
+        }
+      },
+      "observer": "",
+      "sum": "33,97",
+      "total": "33,97",
+      "competitor_names": "Lara MAUROGIOVANNI & Fabio ROVEDONI"
+    },
+    {
+      "start_number": "116",
+      "position": "9",
+      "teor": "65",
+      "categories": {
+        "BBW": {
+          "name": "Boogie Woogie Basics - Woman",
+          "aggregated": "4,17",
+          "judge_scores": [
+            "3,75",
+            "5,25",
+            "3,75",
+            "4,5",
+            "5,25",
+            "3"
+          ]
+        },
+        "BBM": {
+          "name": "Boogie Woogie Basics - Man",
+          "aggregated": "4,16",
+          "judge_scores": [
+            "3,75",
+            "5,25",
+            "3,75",
+            "4,5",
+            "3,75",
+            "4,5"
+          ]
+        },
+        "LF": {
+          "name": "Lead and follow, basic dancing, harmony, dance performance",
+          "aggregated": "7,15",
+          "judge_scores": [
+            "6,75",
+            "8,25",
+            "7,5",
+            "9",
+            "4,5",
+            "6"
+          ]
+        },
+        "DF": {
+          "name": "Dance Figures (how do they present)",
+          "aggregated": "4,69",
+          "judge_scores": [
+            "4",
+            "5",
+            "5",
+            "5,5",
+            "4,5",
+            "3,5"
+          ]
+        },
+        "MI": {
+          "name": "Music Interpretation (what do they present)",
+          "aggregated": "11,37",
+          "judge_scores": [
+            "6,25",
+            "11,25",
+            "11,25",
+            "15",
+            "12,5",
+            "7,5"
+          ]
+        }
+      },
+      "observer": "",
+      "sum": "31,54",
+      "total": "31,54",
+      "competitor_names": "Amanda BERGLIND & Valdemar SELGERYD"
+    },
+    {
+      "start_number": "97",
+      "position": "10",
+      "teor": "65",
+      "categories": {
+        "BBW": {
+          "name": "Boogie Woogie Basics - Woman",
+          "aggregated": "4,11",
+          "judge_scores": [
+            "4,5",
+            "3,75",
+            "4,5",
+            "2,25",
+            "3,75",
+            "4,5"
+          ]
+        },
+        "BBM": {
+          "name": "Boogie Woogie Basics - Man",
+          "aggregated": "4,12",
+          "judge_scores": [
+            "4,5",
+            "4,5",
+            "3,75",
+            "3,75",
+            "3,75",
+            "4,5"
+          ]
+        },
+        "LF": {
+          "name": "Lead and follow, basic dancing, harmony, dance performance",
+          "aggregated": "7,63",
+          "judge_scores": [
+            "7,5",
+            "9",
+            "5,25",
+            "7,5",
+            "7,5",
+            "9,75"
+          ]
+        },
+        "DF": {
+          "name": "Dance Figures (how do they present)",
+          "aggregated": "5,29",
+          "judge_scores": [
+            "5,5",
+            "5,5",
+            "2,5",
+            "6",
+            "5",
+            "5"
+          ]
+        },
+        "MI": {
+          "name": "Music Interpretation (what do they present)",
+          "aggregated": "9,91",
+          "judge_scores": [
+            "8,75",
+            "8,75",
+            "7,5",
+            "12,5",
+            "12,5",
+            "11,25"
+          ]
+        }
+      },
+      "observer": "",
+      "sum": "31,05",
+      "total": "31,05",
+      "competitor_names": "Carlotta MANZATO & Dario ANELLI"
+    },
+    {
+      "start_number": "105",
+      "position": "11",
+      "teor": "65",
+      "categories": {
+        "BBW": {
+          "name": "Boogie Woogie Basics - Woman",
+          "aggregated": "3,75",
+          "judge_scores": [
+            "3",
+            "3,75",
+            "4,5",
+            "2,25",
+            "3,75",
+            "4,5"
+          ]
+        },
+        "BBM": {
+          "name": "Boogie Woogie Basics - Man",
+          "aggregated": "3,85",
+          "judge_scores": [
+            "4,5",
+            "3,75",
+            "3,75",
+            "3",
+            "3,75",
+            "5,25"
+          ]
+        },
+        "LF": {
+          "name": "Lead and follow, basic dancing, harmony, dance performance",
+          "aggregated": "6,8",
+          "judge_scores": [
+            "5,25",
+            "6,75",
+            "3,75",
+            "6,75",
+            "7,5",
+            "8,25"
+          ]
+        },
+        "DF": {
+          "name": "Dance Figures (how do they present)",
+          "aggregated": "5,2",
+          "judge_scores": [
+            "5",
+            "5",
+            "5",
+            "6",
+            "5",
+            "6"
+          ]
+        },
+        "MI": {
+          "name": "Music Interpretation (what do they present)",
+          "aggregated": "9,24",
+          "judge_scores": [
+            "5",
+            "7,5",
+            "8,75",
+            "13,75",
+            "10",
+            "15"
+          ]
+        }
+      },
+      "observer": "",
+      "sum": "28,85",
+      "total": "28,85",
+      "competitor_names": "Martine KARLSEN & Thobias JACOBSEN"
+    },
+    {
+      "start_number": "106",
+      "position": "12",
+      "teor": "65",
+      "categories": {
+        "BBW": {
+          "name": "Boogie Woogie Basics - Woman",
+          "aggregated": "4,11",
+          "judge_scores": [
+            "4,5",
+            "3,75",
+            "4,5",
+            "2,25",
+            "3,75",
+            "4,5"
+          ]
+        },
+        "BBM": {
+          "name": "Boogie Woogie Basics - Man",
+          "aggregated": "4,32",
+          "judge_scores": [
+            "4,5",
+            "3,75",
+            "4,5",
+            "2,25",
+            "4,5",
+            "4,5"
+          ]
+        },
+        "LF": {
+          "name": "Lead and follow, basic dancing, harmony, dance performance",
+          "aggregated": "6,38",
+          "judge_scores": [
+            "6",
+            "6,75",
+            "5,25",
+            "6",
+            "7,5",
+            "6,75"
+          ]
+        },
+        "DF": {
+          "name": "Dance Figures (how do they present)",
+          "aggregated": "4,5",
+          "judge_scores": [
+            "4",
+            "5",
+            "4,5",
+            "5",
+            "4,5",
+            "4"
+          ]
+        },
+        "MI": {
+          "name": "Music Interpretation (what do they present)",
+          "aggregated": "9,49",
+          "judge_scores": [
+            "3,75",
+            "6,25",
+            "10",
+            "8,75",
+            "12,5",
+            "10"
+          ]
+        }
+      },
+      "observer": "",
+      "sum": "28,8",
+      "total": "28,8",
+      "competitor_names": "Monika CIRYT & Tomasz CIRYT"
+    },
+    {
+      "start_number": "85",
+      "position": "13",
+      "teor": "65",
+      "categories": {
+        "BBW": {
+          "name": "Boogie Woogie Basics - Woman",
+          "aggregated": "3,18",
+          "judge_scores": [
+            "3",
+            "3",
+            "3,75",
+            "3",
+            "5,25",
+            "3"
+          ]
+        },
+        "BBM": {
+          "name": "Boogie Woogie Basics - Man",
+          "aggregated": "3,85",
+          "judge_scores": [
+            "4,5",
+            "3,75",
+            "3",
+            "3,75",
+            "4,5",
+            "3,75"
+          ]
+        },
+        "LF": {
+          "name": "Lead and follow, basic dancing, harmony, dance performance",
+          "aggregated": "6,75",
+          "judge_scores": [
+            "6,75",
+            "5,25",
+            "7,5",
+            "6,75",
+            "8,25",
+            "6"
+          ]
+        },
+        "DF": {
+          "name": "Dance Figures (how do they present)",
+          "aggregated": "4,7",
+          "judge_scores": [
+            "4,5",
+            "2,5",
+            "5",
+            "5",
+            "6,5",
+            "3,5"
+          ]
+        },
+        "MI": {
+          "name": "Music Interpretation (what do they present)",
+          "aggregated": "10,03",
+          "judge_scores": [
+            "8,75",
+            "7,5",
+            "11,25",
+            "11,25",
+            "13,75",
+            "7,5"
+          ]
+        }
+      },
+      "observer": "",
+      "sum": "28,5",
+      "total": "28,5",
+      "competitor_names": "Tamari KEKISHVILI & Damien HEMAIZIA"
+    },
+    {
+      "start_number": "94",
+      "position": "14",
+      "teor": "65",
+      "categories": {
+        "BBW": {
+          "name": "Boogie Woogie Basics - Woman",
+          "aggregated": "3,38",
+          "judge_scores": [
+            "3,75",
+            "2,25",
+            "4,5",
+            "3",
+            "3",
+            "3,75"
+          ]
+        },
+        "BBM": {
+          "name": "Boogie Woogie Basics - Man",
+          "aggregated": "3,85",
+          "judge_scores": [
+            "4,5",
+            "3,75",
+            "4,5",
+            "3",
+            "3,75",
+            "3,75"
+          ]
+        },
+        "LF": {
+          "name": "Lead and follow, basic dancing, harmony, dance performance",
+          "aggregated": "6,33",
+          "judge_scores": [
+            "5,25",
+            "6,75",
+            "5,25",
+            "7,5",
+            "6,75",
+            "6"
+          ]
+        },
+        "DF": {
+          "name": "Dance Figures (how do they present)",
+          "aggregated": "4,3",
+          "judge_scores": [
+            "4",
+            "4",
+            "3,5",
+            "5",
+            "5",
+            "4,5"
+          ]
+        },
+        "MI": {
+          "name": "Music Interpretation (what do they present)",
+          "aggregated": "9,98",
+          "judge_scores": [
+            "10",
+            "7,5",
+            "6,25",
+            "15",
+            "12,5",
+            "10"
+          ]
+        }
+      },
+      "observer": "",
+      "sum": "27,83",
+      "total": "27,83",
+      "competitor_names": "Giada STERI & Christian FAMA"
+    },
+    {
+      "start_number": "98",
+      "position": "15",
+      "teor": "65",
+      "categories": {
+        "BBW": {
+          "name": "Boogie Woogie Basics - Woman",
+          "aggregated": "3,45",
+          "judge_scores": [
+            "3,75",
+            "3",
+            "4,5",
+            "3",
+            "3",
+            "4,5"
+          ]
+        },
+        "BBM": {
+          "name": "Boogie Woogie Basics - Man",
+          "aggregated": "4,3",
+          "judge_scores": [
+            "4,5",
+            "4,5",
+            "4,5",
+            "3",
+            "3",
+            "4,5"
+          ]
+        },
+        "LF": {
+          "name": "Lead and follow, basic dancing, harmony, dance performance",
+          "aggregated": "6,4",
+          "judge_scores": [
+            "5,25",
+            "7,5",
+            "4,5",
+            "7,5",
+            "6",
+            "6,75"
+          ]
+        },
+        "DF": {
+          "name": "Dance Figures (how do they present)",
+          "aggregated": "4,31",
+          "judge_scores": [
+            "4,5",
+            "5",
+            "3",
+            "5,5",
+            "4",
+            "4"
+          ]
+        },
+        "MI": {
+          "name": "Music Interpretation (what do they present)",
+          "aggregated": "9,33",
+          "judge_scores": [
+            "8,75",
+            "8,75",
+            "6,25",
+            "13,75",
+            "10",
+            "11,25"
+          ]
+        }
+      },
+      "observer": "",
+      "sum": "27,79",
+      "total": "27,79",
+      "competitor_names": "Jessica MASUCCI & JORGGE Axel Javier ARMIJOS"
+    }
+  ]
+}
