@@ -13,7 +13,7 @@ import requests
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
-from wrrc_openmarkings import (
+from scrape import (
     scrape_wrrc_results, 
     get_competition_info,
     sanitize_filename,
