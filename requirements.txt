@@ -1,0 +1,17 @@
+# WRRC Competition Scraper Requirements
+# 
+# External dependencies for wrrc_openmarkings.py and wrrc_bulk_scraper.py
+
+# HTTP library for making web requests
+requests>=2.28.0
+
+# HTML parsing library (BeautifulSoup)
+beautifulsoup4>=4.11.0
+
+# Progress bar library for showing download/processing progress
+tqdm>=4.64.0
+
+# Visualization dependencies for visualize.py
+streamlit>=1.28.0
+plotly>=5.17.0
+pandas>=2.0.0
