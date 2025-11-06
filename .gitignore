@@ -1,0 +1,9 @@
+# Python virtual environment
+venv/
+
+# Results directory
+results/
+
+# Streamlit cache
+.streamlit/
+
