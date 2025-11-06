@@ -622,7 +622,7 @@ def main():
     # Main visualizations
     st.header("Leaderboard")
     leaderboard_fig = create_leaderboard_chart(df)
-    st.plotly_chart(leaderboard_fig, use_container_width=True)
+    st.plotly_chart(leaderboard_fig, width="stretch")
     
     # Category comparison
     st.header("Category Scores Comparison")
@@ -654,11 +654,11 @@ def main():
     
     with col1:
         comparison_fig = create_category_comparison_chart(df, selected_couples_df)
-        st.plotly_chart(comparison_fig, use_container_width=True)
+        st.plotly_chart(comparison_fig, width="stretch")
     
     with col2:
         normalized_fig = create_normalized_category_comparison_chart(df, selected_couples_df)
-        st.plotly_chart(normalized_fig, use_container_width=True)
+        st.plotly_chart(normalized_fig, width="stretch")
     
     # Category-specific charts
     st.header("Category Breakdown")
@@ -668,7 +668,7 @@ def main():
     
     category_fig = create_category_bar_chart(df, selected_category)
     if category_fig:
-        st.plotly_chart(category_fig, use_container_width=True)
+        st.plotly_chart(category_fig, width="stretch")
     
     # Judge scores
     st.header("Judge Scores Analysis")
@@ -699,12 +699,12 @@ def main():
     judges_list = comp_info.get("judges", [])
     judge_fig = create_judge_scores_chart(df, judge_category, judges_list=judges_list, selected_couples_df=judge_selected_couples_df)
     if judge_fig:
-        st.plotly_chart(judge_fig, use_container_width=True)
+        st.plotly_chart(judge_fig, width="stretch")
     
     # Chart showing total scores (sum of all categories) from each judge to all couples
     judge_by_judge_fig = create_judge_scores_by_judge_chart(df, judge_category, judges_list=judges_list, selected_couples_df=judge_selected_couples_df)
     if judge_by_judge_fig:
-        st.plotly_chart(judge_by_judge_fig, use_container_width=True)
+        st.plotly_chart(judge_by_judge_fig, width="stretch")
     
     # Detailed data table
     st.header("Detailed Results Table")
@@ -721,13 +721,13 @@ def main():
         "BBW", "BBM", "LF", "DF", "MI", "Observer"
     ]
     
-    st.dataframe(display_df, use_container_width=True, height=400)
+    st.dataframe(display_df, width="stretch", height=400)
     
     # Judges information
     if comp_info.get("judges"):
         st.header("Judges")
         judges_df = pd.DataFrame(comp_info["judges"])
-        st.dataframe(judges_df[["letter", "name", "country"]], use_container_width=True)
+        st.dataframe(judges_df[["letter", "name", "country"]], width="stretch")
 
 if __name__ == "__main__":
     main()
