@@ -15,7 +15,7 @@ A comprehensive tool for scraping, analyzing, and visualizing competition result
 - Automatic discovery of competition IDs and round numbers
 
 ### 📊 Data Visualization
-- **Interactive Dashboard** (`visualize.py`): Streamlit-based web application with:
+- **Interactive Dashboard** (`Main_Dashboard.py`): Streamlit-based web application with:
   - **Leaderboard Charts**: Visualize final rankings with total scores
   - **Category Comparison**: Radar charts comparing scores across 5 categories:
     - BBW (Boogie Woogie Basics - Woman)
@@ -112,7 +112,7 @@ The bulk scraper will:
 Launch the interactive visualization dashboard:
 
 ```bash
-streamlit run visualize.py
+streamlit run Main_Dashboard.py
 ```
 
 The dashboard will open in your web browser (typically at `http://localhost:8501`).
@@ -133,7 +133,7 @@ WOPAV/
 ├── requirements.txt             # Python dependencies
 ├── wrrc_openmarkings.py        # Single competition scraper
 ├── wrrc_bulk_scraper.py        # Bulk competition scraper
-├── visualize.py                 # Streamlit visualization dashboard
+├── Main_Dashboard.py            # Streamlit visualization dashboard
 ├── urls_openmarkings_noff_2025 # Example URL file (optional)
 └── results/                     # Directory for scraped JSON results
     ├── results_Geneve_11-10-25_Juniors_Final.json

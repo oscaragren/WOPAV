@@ -858,7 +858,7 @@ def load_urls_from_file(filename):
 
 def main():
     # Default filename for URLs
-    urls_file = "urls_openmarkings_noff_2025"
+    urls_file = "urls_openmarkings_noff"
     
     # Load URLs from file
     print(f"Loading URLs from: {urls_file}")
